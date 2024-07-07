@@ -11,6 +11,6 @@ Following are the links that we will refer in the training
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
 | GitHub SingUP Page | https://github.com | |
-| Create Ec2 Server | https://github.com/akasdevopsdaw1/.github/blob/main/create-ec2.md | |
+| Create Ec2 Server | https://github.com/akasjoindevopsswebinar/.github/blob/main/create-ec2.md | |
 | Linux Credentials | ec2-user / DevOps321 | |
 
