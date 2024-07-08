@@ -12,4 +12,5 @@ Following are the links that we will refer in the training
 | GitHub SingUP Page | https://github.com | |
 | Create Ec2 Server | https://github.com/akasjoindevopsswebinar/.github/blob/main/create-ec2.md | |
 | Linux Credentials | ec2-user / DevOps321 | |
+| QA Sessions | July 9th and July 11th - 8~8.30 PM | |
 
